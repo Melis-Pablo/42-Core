@@ -1,0 +1,60 @@
+[submodule "Extras/project-calculator"]
+	path = Extras/project-calculator
+	url = https://github.com/Melis-Pablo/project-calculator.git
+[submodule "Extras/42_Exam"]
+	path = Extras/42_Exam
+	url = https://github.com/Melis-Pablo/42_Exam.git
+[submodule "Circle06/ft_transcendence"]
+	path = Circle06/ft_transcendence
+	url = https://github.com/Melis-Pablo/ft_transcendence.git
+[submodule "Circle05/cpp_modules_pt2"]
+	path = Circle05/cpp_modules_pt2
+	url = https://github.com/Melis-Pablo/cpp_modules_pt2.git
+[submodule "Circle05/inception"]
+	path = Circle05/inception
+	url = https://github.com/Melis-Pablo/inception.git
+[submodule "Circle05/webserv"]
+	path = Circle05/webserv
+	url = https://github.com/Melis-Pablo/webserv.git
+[submodule "Circle04/cpp_modules"]
+	path = Circle04/cpp_modules
+	url = https://github.com/Melis-Pablo/cpp_modules.git
+[submodule "Circle04/minirt"]
+	path = Circle04/minirt
+	url = https://github.com/Melis-Pablo/minirt.git
+[submodule "Circle04/net_practice"]
+	path = Circle04/net_practice
+	url = https://github.com/Melis-Pablo/net_practice.git
+[submodule "Circle03/philosophers"]
+	path = Circle03/philosophers
+	url = https://github.com/Melis-Pablo/philosophers.git
+[submodule "Circle03/minishell"]
+	path = Circle03/minishell
+	url = https://github.com/Melis-Pablo/minishell.git
+[submodule "Circle02/push_swap"]
+	path = Circle02/push_swap
+	url = https://github.com/Melis-Pablo/push_swap.git
+[submodule "Circle02/pipex"]
+	path = Circle02/pipex
+	url = https://github.com/Melis-Pablo/pipex.git
+[submodule "Circle02/fract-ol"]
+	path = Circle02/fract-ol
+	url = https://github.com/Melis-Pablo/fract-ol.git
+[submodule "Circle01/born2beRoot"]
+	path = Circle01/born2beRoot
+	url = https://github.com/Melis-Pablo/born2beRoot.git
+[submodule "Circle01/ft_printf"]
+	path = Circle01/ft_printf
+	url = https://github.com/Melis-Pablo/ft_printf.git
+[submodule "Circle01/get_next_line"]
+	path = Circle01/get_next_line
+	url = https://github.com/Melis-Pablo/get_next_line.git
+[submodule "Circle00/libft"]
+	path = Circle00/libft
+	url = https://github.com/Melis-Pablo/libft.git
+[submodule "Extras/42-testing-container"]
+	path = Extras/42-testing-container
+	url = https://github.com/Melis-Pablo/42-testing-container.git
+[submodule "Extras/2022-Piscine"]
+	path = Extras/2022-Piscine
+	url = https://github.com/Melis-Pablo/2022-Piscine.git
