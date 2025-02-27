@@ -1,10 +1,6 @@
 # 42-Core
 > All the projects from my 42 Core curriculum
 
-<p align="center">
-  <img src="images/42_logo.png" alt="42 Logo" width="300">
-</p>
-
 ## Overview
 
 This repository contains all the projects I completed during my journey through the 42 Core Curriculum. Each project is included as a git submodule organized by Circle (curriculum level).
