@@ -69,7 +69,7 @@ The culmination of the core curriculum with a full stack web project implementin
 - [ft_transcendence](https://github.com/Melis-Pablo/ft_transcendence) - Full-stack web application with real-time features
 
 ### Extras
-- [Holygraph-Visualization](https://melispablo.com/solar-view) - Project 3D View
+- [Holygraph-Visualization](https://melispablo.com/projects-solar) - Project 3D View
 - [project-calculator](https://github.com/Melis-Pablo/project-calculator) - Time management tool for 42 projects
 - [42_Exam](https://github.com/Melis-Pablo/42_Exam) - Exam preparation materials
 - [42-testing-container](https://github.com/Melis-Pablo/42-testing-container) - Docker container for testing 42 projects
