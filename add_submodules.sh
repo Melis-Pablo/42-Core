@@ -15,7 +15,7 @@ declare -a repos=(
   "ft_transcendence|Circle06"
   "cpp_modules_pt2|Circle05"
   "inception|Circle05"
-  "webserv|Circle05"
+  "ft_irc|Circle05"
   "cpp_modules|Circle04"
   "minirt|Circle04"
   "net_practice|Circle04"

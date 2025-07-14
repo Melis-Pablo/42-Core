@@ -58,3 +58,6 @@
 [submodule "Extras/2022-Piscine"]
 	path = Extras/2022-Piscine
 	url = https://github.com/Melis-Pablo/2022-Piscine.git
+[submodule "Circle05/ft_irc"]
+	path = Circle05/ft_irc
+	url = https://github.com/Melis-Pablo/ft_irc.git
